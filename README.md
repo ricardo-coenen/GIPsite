@@ -1,2 +1,0 @@
-# GIPsite
-Hierbij mijn gipsite
