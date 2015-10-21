@@ -35,6 +35,26 @@ a:active,
 a.active {
     outline: 0;
 }
+.user
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-repeat: no-repeat; 
+    background-position: center center;
+    background-size: cover;
+	position: center;
+}
+
+.center {
+    margin: auto;
+    padding: 10px;
+}
+
+.one
+{
+    background-image: url('../img/profilepic.jpg');
+}
 
 a {
     color: #022185;
@@ -182,14 +202,14 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #022185;
+    color: #0D3CA9;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #022185;
+    color: #0D3CA9;
 }
 
 .navbar-default .navbar-collapse {
@@ -272,8 +292,6 @@ header {
     color: #fff;
     background-attachment: scroll;
     background: url('../img/header-background.jpg') center center no-repeat;
-    background-position: center center;
-    background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
