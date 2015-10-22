@@ -32,20 +32,20 @@ Ik heb wat opgezocht en ik zal zo goed mogelijk het verschil uitleggen tussen Hu
 
 &lt;p&gt;Als je bij Hugo een website wenst aan te passen, moet je handmatig html-codes en css-codes aanpassen in de lay-out en static map.
 Om posts te zetten op je site, maak je verschillende markdownbestandjes aan in de content-map.
-In de static map kun je alles terugvinden om je site op te knappen (css, javascript, &amp;hellip;) en in de lay-out map kun je verschillende partials vinden.&lt;/p&gt;
+In de static-map kun je alles terugvinden om je site op te knappen (css, javascript, &amp;hellip;) en in de layout-map kun je verschillende partials vinden.&lt;/p&gt;
 
 &lt;p&gt;Op een Wordpress site is alles drag &amp;amp; drop. Je kunt gemakkelijk posts toevoegen d.m.v.
 een paar klikken. Als je een post wenst aan te passen klik je op desbetreffende post. Bij hugo moet
 je goede kennis hebben van html-codes, bij WordPress is dit helemaal niet nodig. Het is natuurlijk altijd een
-voordeel als een paar html-codes kent.&lt;/p&gt;
+voordeel als je een paar html-codes kent.&lt;/p&gt;
 
 &lt;h3 id=&#34;directory-structuur-site:f8aef01ec8d36c35dadc267e2ab8a0b2&#34;&gt;Directory-structuur site&lt;/h3&gt;
 
 &lt;p&gt;In mijn content-map heb ik voor elk vak een aparte map aangemaakt. In elke vakmap vindt u markdownbestanden de bij dat vak horen en waarin een post staat.
 Voor elke post is er een nieuw markdownbestandje. In de layout-map staat een map met vele partials en een index.html.
 In de map partials heb ik voor elk vak een modal-bestand en een gewoon bestand. Het modal-bestand zorgt ervoor dat
-elke post van dat vak mooi wordt weergegeven met een foto. Wanneer je op een foto klikt, zal het gewone bestande in actie
-komen en je de post laten zien in een pop-up. In mijn static map kun je de css, javascript, jqeury en foto&amp;rsquo;s terugvinden.&lt;/p&gt;
+elke post van dat vak mooi wordt weergegeven met een foto. Wanneer je op een foto klikt, zal het gewone bestand in actie
+komen en je de post laten zien in een pop-up. In mijn static-map kun je de css, javascript, jqeury en foto&amp;rsquo;s terugvinden.&lt;/p&gt;
 
 &lt;h3 id=&#34;wat-ik-moeilijk-vond:f8aef01ec8d36c35dadc267e2ab8a0b2&#34;&gt;Wat ik moeilijk vond&lt;/h3&gt;
 
