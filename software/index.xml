@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares on GIP-Site 2015-2016 Ricardo Coenen</title>
+    <link>http://ricardo-coenen.github.io/GIPsite/software/</link>
+    <description>Recent content in Softwares on GIP-Site 2015-2016 Ricardo Coenen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://ricardo-coenen.github.io/GIPsite/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Taak 07: Vergelijking Hugo - WordPress</title>
+      <link>http://ricardo-coenen.github.io/GIPsite/Software/1/</link>
+      <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://ricardo-coenen.github.io/GIPsite/Software/1/</guid>
+      <description>
+
+&lt;h3 id=&#34;links:f8aef01ec8d36c35dadc267e2ab8a0b2&#34;&gt;Links&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/ricardo-coenen/GIPsite&#34; target=&#34;_blank&#34;&gt;Gitlab&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/ricardo-coenen/GIPsite&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ricardo-coenen.github.io/GIPsite/&#34; target=&#34;_blank&#34;&gt;Github Pages&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;verschil-tussen-hugo-en-wordpress:f8aef01ec8d36c35dadc267e2ab8a0b2&#34;&gt;Verschil tussen hugo en WordPress&lt;/h3&gt;
+
+&lt;p&gt;Ik ben zelf nog niet echt met WordPress bezig geweest om veel details over WordPress te kunnen geven.
+Ik heb wat opgezocht en ik zal zo goed mogelijk het verschil uitleggen tussen Hugo en WordPress.&lt;/p&gt;
+
+&lt;p&gt;Als je bij Hugo een website wenst aan te passen, moet je handmatig html-codes en css-codes aanpassen in de lay-out en static map.
+Om posts te zetten op je site, maak je verschillende markdownbestandjes aan in de content-map.
+In de static-map kun je alles terugvinden om je site op te knappen (css, javascript, &amp;hellip;) en in de layout-map kun je verschillende partials vinden.&lt;/p&gt;
+
+&lt;p&gt;Op een Wordpress site is alles drag &amp;amp; drop. Je kunt gemakkelijk posts toevoegen d.m.v.
+een paar klikken. Als je een post wenst aan te passen klik je op desbetreffende post. Bij hugo moet
+je goede kennis hebben van html-codes, bij WordPress is dit helemaal niet nodig. Het is natuurlijk altijd een
+voordeel als je een paar html-codes kent.&lt;/p&gt;
+
+&lt;h3 id=&#34;directory-structuur-site:f8aef01ec8d36c35dadc267e2ab8a0b2&#34;&gt;Directory-structuur site&lt;/h3&gt;
+
+&lt;p&gt;In mijn content-map heb ik voor elk vak een aparte map aangemaakt. In elke vakmap vindt u markdownbestanden de bij dat vak horen en waarin een post staat.
+Voor elke post is er een nieuw markdownbestandje. In de layout-map staat een map met vele partials en een index.html.
+In de map partials heb ik voor elk vak een modal-bestand en een gewoon bestand. Het modal-bestand zorgt ervoor dat
+elke post van dat vak mooi wordt weergegeven met een foto. Wanneer je op een foto klikt, zal het gewone bestand in actie
+komen en je de post laten zien in een pop-up. In mijn static-map kun je de css, javascript, jquery en foto&amp;rsquo;s terugvinden.&lt;/p&gt;
+
+&lt;h3 id=&#34;wat-ik-moeilijk-vond:f8aef01ec8d36c35dadc267e2ab8a0b2&#34;&gt;Wat ik moeilijk vond&lt;/h3&gt;
+
+&lt;p&gt;Ik vond hugo persoonlijk lastig en een grote uitdaging vooral omdat er zeer weinig over te vinden is op het internet.
+De codes die je moet gebruiken voor hugo zijn geheel nieuw, waardoor het voor ons ook zeer moeilijk was.
+Na een tijd begon ik het wel te snappen en leek het allemaal logischer dan het was.&lt;/p&gt;
+
+&lt;p&gt;Ik ga hugo zeker nog eens gebruiken. Het is een uitdaging om mee te werken en zeker niet gemakkelijk, maar desondanks is het een zeer handige tool.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
