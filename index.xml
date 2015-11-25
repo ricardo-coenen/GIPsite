@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GIP-Site 2015-2016 Ricardo Coenen</title>
-    <link>http://localhost/GIPsite/</link>
+    <link>http://ricardo-coenen.github.io/GIPsite/</link>
     <description>Recent content on GIP-Site 2015-2016 Ricardo Coenen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Nov 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost/GIPsite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ricardo-coenen.github.io/GIPsite/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Uitleg over contactformulier</title>
-      <link>http://localhost/GIPsite/Software/2/</link>
+      <link>http://ricardo-coenen.github.io/GIPsite/Software/2/</link>
       <pubDate>Sun, 22 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/GIPsite/Software/2/</guid>
+      <guid>http://ricardo-coenen.github.io/GIPsite/Software/2/</guid>
       <description>
 
 &lt;h3 id=&#34;info-over-mijn-cotactformulier-volgt-spoedig-mogelijk:896e6a047842bb2c549e5839e6d98774&#34;&gt;Info over mijn cotactformulier volgt spoedig mogelijk!&lt;/h3&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Taak 07: Vergelijking Hugo - WordPress</title>
-      <link>http://localhost/GIPsite/Software/1/</link>
+      <link>http://ricardo-coenen.github.io/GIPsite/Software/1/</link>
       <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/GIPsite/Software/1/</guid>
+      <guid>http://ricardo-coenen.github.io/GIPsite/Software/1/</guid>
       <description>
 
 &lt;h3 id=&#34;links:f8aef01ec8d36c35dadc267e2ab8a0b2&#34;&gt;Links&lt;/h3&gt;
