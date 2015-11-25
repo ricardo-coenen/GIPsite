@@ -82,6 +82,13 @@ section#portfolio .row {
 
 }
 
+section#portfolio img{
+    width: 300px;
+    height: 300px;
+
+
+}
+
 .img-centered {
     margin: 0 auto;
 }
@@ -383,7 +390,7 @@ section h3.section-subheading {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
+    max-width: 300px;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
