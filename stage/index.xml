@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stages on GIP-Site 2015-2016 Ricardo Coenen</title>
+    <link>http://ricardo-coenen.github.io/GIPsite/stage/</link>
+    <description>Recent content in Stages on GIP-Site 2015-2016 Ricardo Coenen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://ricardo-coenen.github.io/GIPsite/stage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Verslag Maandag</title>
+      <link>http://ricardo-coenen.github.io/GIPsite/verslag.png</link>
+      <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ricardo-coenen.github.io/GIPsite/verslag.png</guid>
+      <description>
+
+&lt;h2 id=&#34;11-01-2016:a3521f510b0d777e8c856adb4f72051b&#34;&gt;11-01-2016&lt;/h2&gt;
+
+&lt;h3 id=&#34;eerste-dag:a3521f510b0d777e8c856adb4f72051b&#34;&gt;Eerste dag!&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
