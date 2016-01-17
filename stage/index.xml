@@ -6,8 +6,44 @@
     <description>Recent content in Stages on GIP-Site 2015-2016 Ricardo Coenen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jan 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://ricardo-coenen.github.io/GIPsite/stage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Verslag Vrijdag 15-01-2016</title>
+      <link>http://ricardo-coenen.github.io/GIPsite/verslag.png</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ricardo-coenen.github.io/GIPsite/verslag.png</guid>
+      <description>
+
+&lt;h2 id=&#34;15-01-2016:46b7456f4bac9222f54463d06c2d1a83&#34;&gt;15-01-2016&lt;/h2&gt;
+
+&lt;h3 id=&#34;stroompanne:46b7456f4bac9222f54463d06c2d1a83&#34;&gt;Stroompanne&lt;/h3&gt;
+
+&lt;p&gt;Vandaag was er een &lt;em&gt;stroompanne&lt;/em&gt;. De grote poort deed het net meer. Toen wij op ons kantoortje zaten, kwamen we erachter dat ook wij geen stroom meer hadden, maar dat ook één van de &lt;strong&gt;twee airco&amp;rsquo;s in het serverlokaal&lt;/strong&gt; was uitgevallen, een ramp dus. Je voelde het temperatuurverschil met een paar dagen geleden heel hard. Ik ben erachter gekomen dat je als IT&amp;rsquo;er niet alleen kennis moet hebben van computers, maar ook van &lt;strong&gt;elektriciteit&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Na bijna een hele voormiddag te hebben gezocht naar het probleem, is de elektricien gekomen. Hij heeft het probleem rap gevonden, en opgelost. Hierna zijn we mijn firewall opnieuw kunnen gaan opbouwen omdat de harde schijf van mijn server het begeven had.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Verslag Donderdag 14-01-2016</title>
+      <link>http://ricardo-coenen.github.io/GIPsite/verslag.png</link>
+      <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ricardo-coenen.github.io/GIPsite/verslag.png</guid>
+      <description>
+
+&lt;h2 id=&#34;14-01-2016:2638d1ad7533f66f009d1bef382d7f74&#34;&gt;14-01-2016&lt;/h2&gt;
+
+&lt;h3 id=&#34;linux-een-wereld-vol-verwonderingen:2638d1ad7533f66f009d1bef382d7f74&#34;&gt;Linux, een wereld vol verwonderingen&lt;/h3&gt;
+
+&lt;p&gt;We zijn vandaag begonnen aan mijn &lt;strong&gt;firewall&lt;/strong&gt;. We doen dit niet op een &lt;strong&gt;windows&lt;/strong&gt; machine, maar op een &lt;strong&gt;linux&lt;/strong&gt; machine. &lt;strong&gt;Debian 7 core&lt;/strong&gt;. Hoe minder er op je systeem staat, hoe minder fouten er kunnen zijn in je besturingssysteem. &lt;strong&gt;Linux&lt;/strong&gt; heeft niet de makkelijkste &lt;em&gt;commands&lt;/em&gt; maar eens je ze snapt, is linux veel machtiger dan &lt;strong&gt;windows&lt;/strong&gt;. Ik vind het zelfs een beetje jammer dat wij geen linux leren op school.&lt;/p&gt;
+
+&lt;p&gt;We zijn dus een firewall aan het instellen, maar ook direct een &lt;strong&gt;VPN en fileserver&lt;/strong&gt;. Altijd handig voor in de toekomst!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Verslag Woensdag 13-01-2016</title>
