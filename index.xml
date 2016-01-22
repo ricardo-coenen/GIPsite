@@ -6,8 +6,28 @@
     <description>Recent content on GIP-Site 2015-2016 Ricardo Coenen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://ricardo-coenen.github.io/GIPsite/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Verslag Donderdag 21-01-2016</title>
+      <link>http://ricardo-coenen.github.io/GIPsite/verslag.png</link>
+      <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ricardo-coenen.github.io/GIPsite/verslag.png</guid>
+      <description>
+
+&lt;h2 id=&#34;21-01-2016:8f73d6696e4d2cd7085533a6ac9fa75b&#34;&gt;21-01-2016&lt;/h2&gt;
+
+&lt;h3 id=&#34;op-de-baan:8f73d6696e4d2cd7085533a6ac9fa75b&#34;&gt;Op de baan&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Zoals al eerder gezegd, zijn wij vandaag naar Boom gereden om daar hun ANPR-camera&amp;rsquo;s te bekijken. Ze hebben dit extreem goed uitgelegd aan mij. Ze legde uit hoe het werkte, hoe ze de data overbrengen en hoe de camera&amp;rsquo;s de nummerplaten herkennen.&lt;/p&gt;
+
+&lt;p&gt;Hierna zijn we teruggekeerd en heb ik nog wat verder gewerkt aan de website. Ik ben nu bezig aan een formulier dat mensen online een aanvraag van vakantietoezicht kunnen doen.&lt;/p&gt;
+
+&lt;p&gt;Morgen ga ik de website zo ver mogelijk afwerken en mag ik mee op patrouille.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Verslag Woensdag 20-01-2016</title>
@@ -193,6 +213,29 @@ Morgen gaan we naar &lt;em&gt;Boom&lt;/em&gt; om daar de &lt;strong&gt;ANPR-came
     </item>
     
     <item>
+      <title>Task 05: IT-Autobiography</title>
+      <link>http://ricardo-coenen.github.io/GIPsite/autobiography.png</link>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://ricardo-coenen.github.io/GIPsite/autobiography.png</guid>
+      <description>
+
+&lt;h3 id=&#34;it-autobiography-of-ricardo-coenen:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;IT-Autobiography of Ricardo Coenen&lt;/h3&gt;
+
+&lt;p&gt;Welcome reader, I&amp;rsquo;m Ricardo Coenen, student at the Immaculata Institute and currently studying IT-management. I&amp;rsquo;m the &lt;strong&gt;&amp;ldquo;fixer&amp;rdquo;&lt;/strong&gt;. When someone has a question or something is broken, they ask me for help, most of the time. I will not continue in IT-management after this year, I hope to join the police or army.&lt;/p&gt;
+
+&lt;p&gt;I was 10 when I started playing with computers. I got an old computer from my mother and I started googling, investigating and tried a lot of things. At a certain point I searched the web, and found that you can hack other people. At that moment, my mother met a new partner and he taught me everything I needed to know. You can&amp;rsquo;t imagine how happy I was about being able to hack a site. He told me that I can only use that &lt;strong&gt;&amp;ldquo;power&amp;rdquo;&lt;/strong&gt; for skills or good things, not bad things. So over all these years, I am learning a lot of computers, not just from Google, but a lot from my stepfather.&lt;/p&gt;
+
+&lt;p&gt;And still, I can learn from my stepfather. I still learn something new from him every week. IT means so much for me now. I sometimes think about it, and what would have become of me when my mother hadn&amp;rsquo;t met my step-dad. When I&amp;rsquo;m home, I&amp;rsquo;m behind my computer most of the time. It&amp;rsquo;s relaxing for me, as football can be relaxing for someone else. When working on my computer, I like building sites, expanding our network, building server in our network, etc&amp;hellip; . I think I&amp;rsquo;m lucky that my dad let me all do it, he even pays new stuff so I can experiment with new devices, software and hardware. At the moment I don&amp;rsquo;t game much, but when I play a game, it&amp;rsquo;s mostly fps-games. I have made multiple networks, repaired computers, hosted servers and designed multiple sites of which I still manage one . The site is still under construction, but it has already been published. I don&amp;rsquo;t see myself as an expert, but I think I can say I know a lot of the basic stuff of IT and pretty much of hacking.&lt;/p&gt;
+
+&lt;p&gt;Like I said, I don&amp;rsquo;t see myself programming software or building networks. I hope I can join the police or army, if not, I would like to learn everything about hacking. I know there is a school which specialises in hacking, but unfortunately it&amp;rsquo;s a school in a foreign country. I know there&amp;rsquo;s a lot of business in the IT-security industry, because nowadays, everything is online, and everything is hackable, so there will always be a need for IT-security. I just hope I will never have to look at a screen every day of my life.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/portfolio/ik.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Taak 01: IT-Tapa middagsessie</title>
       <link>http://ricardo-coenen.github.io/GIPsite/it-tapa.jpg</link>
       <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
@@ -257,67 +300,6 @@ Morgen gaan we naar &lt;em&gt;Boom&lt;/em&gt; om daar de &lt;strong&gt;ANPR-came
 
 &lt;pre&gt;&lt;code&gt;Non, Sway est une application en ligne.
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Task 05: IT-Autobiography</title>
-      <link>http://ricardo-coenen.github.io/GIPsite/autobiography.png</link>
-      <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://ricardo-coenen.github.io/GIPsite/autobiography.png</guid>
-      <description>
-
-&lt;h3 id=&#34;it-autobiography-of-ricardo-coenen:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;IT-Autobiography of Ricardo Coenen&lt;/h3&gt;
-
-&lt;p&gt;Welcome reader, I&amp;rsquo;m Ricardo Coenen, student at the Immaculata Institute and currently studying IT-management. I&amp;rsquo;m the &lt;strong&gt;&amp;ldquo;fixer&amp;rdquo;&lt;/strong&gt;. When someone has a question or something is broken, they ask me for help, most of the time. I will not continue in IT-management after this year, I hope to join the police or army.&lt;/p&gt;
-
-&lt;p&gt;I was 10 when I started playing with computers. I got an old computer from my mother and I started googling, investigating and tried a lot of things. At a certain point I searched the web, and found that you can hack other people. At that moment, my mother met a new partner and he taught me everything I needed to know. You can&amp;rsquo;t imagine how happy I was about being able to hack a site. He told me that I can only use that &lt;strong&gt;&amp;ldquo;power&amp;rdquo;&lt;/strong&gt; for skills or good things, not bad things. So over all these years, I am learning a lot of computers, not just from Google, but a lot from my stepfather.&lt;/p&gt;
-
-&lt;p&gt;And still, I can learn from my stepfather. I still learn something new from him every week. IT means so much for me now. I sometimes think about it, and what would have become of me when my mother hadn&amp;rsquo;t met my step-dad. When I&amp;rsquo;m home, I&amp;rsquo;m behind my computer most of the time. It&amp;rsquo;s relaxing for me, as football can be relaxing for someone else. When working on my computer, I like building sites, expanding our network, building server in our network, etc&amp;hellip; . I think I&amp;rsquo;m lucky that my dad let me all do it, he even pays new stuff so I can experiment with new devices, software and hardware. At the moment I don&amp;rsquo;t game much, but when I play a game, it&amp;rsquo;s mostly fps-games. I have made multiple networks, repaired computers, hosted servers and designed multiple sites of which I still manage one . The site is still under construction, but it has already been published. I don&amp;rsquo;t see myself as an expert, but I think I can say I know a lot of the basic stuff of IT and pretty much of hacking.&lt;/p&gt;
-
-&lt;p&gt;Like I said, I don&amp;rsquo;t see myself programming software or building networks. I hope I can join the police or army, if not, I would like to learn everything about hacking. I know there is a school which specialises in hacking, but unfortunately it&amp;rsquo;s a school in a foreign country. I know there&amp;rsquo;s a lot of business in the IT-security industry, because nowadays, everything is online, and everything is hackable, so there will always be a need for IT-security. I just hope I will never have to look at a screen every day of my life.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/portfolio/ik.png&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Uitleg over contactformulier</title>
-      <link>http://ricardo-coenen.github.io/GIPsite/jotform.png</link>
-      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://ricardo-coenen.github.io/GIPsite/jotform.png</guid>
-      <description>
-
-&lt;h3 id=&#34;wat-heb-ik-gebruikt:896e6a047842bb2c549e5839e6d98774&#34;&gt;Wat heb ik gebruikt?&lt;/h3&gt;
-
-&lt;p&gt;Ik heb gebruik gemaakt van &lt;strong&gt;Jotform&lt;/strong&gt;. Jotform is een webgebaseerde &lt;code&gt;form&lt;/code&gt; builder. Het is met een &lt;strong&gt;drag &amp;amp; drop&lt;/strong&gt; systeem waardoor het zeer gemakkelijk is voor de gebruiker om het te gebruiken.
-Met Jotform kun je dus gemakkelijk een &lt;code&gt;form&lt;/code&gt; maken en via een simpele link je &lt;code&gt;form&lt;/code&gt; op je website zetten.&lt;/p&gt;
-
-&lt;h3 id=&#34;voor-wie-is-jotform-gemakkelijk:896e6a047842bb2c549e5839e6d98774&#34;&gt;Voor wie is Jotform gemakkelijk?&lt;/h3&gt;
-
-&lt;p&gt;Jotform is zeer gemakkelijk voor mensen die weinig kennis hebben van &lt;code&gt;html&lt;/code&gt;, &lt;code&gt;php&lt;/code&gt; en &lt;code&gt;css&lt;/code&gt;. Het is ook zeer gemakkelijk (zoals in ons geval) wanneer je met een &lt;strong&gt;host&lt;/strong&gt; werkt die geen &lt;code&gt;php&lt;/code&gt; of &lt;code&gt;asp.net&lt;/code&gt; ondersteunt.
-Er zijn dus geen vereisten nodig omdat alles op hun servers wordt &lt;strong&gt;gehost&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;wat-kan-ik-allemaal-maken-met-jotform:896e6a047842bb2c549e5839e6d98774&#34;&gt;Wat kan ik allemaal maken met Jotform?&lt;/h3&gt;
-
-&lt;p&gt;Met Jotform kun je volgende dingen maken:
-- Contactformulier&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Uploadformulier&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reservatieformulier&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Kalender voor evenementen&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;En nog veel meer&amp;hellip;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Je kunt alles instellen van je contactformulier. Zo kun je vereiste ingeven, eventuele foutmeldingen. Je kunt ook kiezen naar welke email het moet verstuurd worden en wat er in de mail moet staan.
-Een echte aanrader als je een gemakkelijk, maar toch professioneel lijkend contactformulier wilt.&lt;/p&gt;
 </description>
     </item>
     
