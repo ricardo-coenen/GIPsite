@@ -6,8 +6,89 @@
     <description>Recent content in Stages on GIP-Site 2015-2016 Ricardo Coenen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 May 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://ricardo-coenen.github.io/GIPsite/stage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Taak 11: Case study</title>
+      <link>http://ricardo-coenen.github.io/GIPsite/anpr.png</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ricardo-coenen.github.io/GIPsite/anpr.png</guid>
+      <description>
+
+&lt;h3 id=&#34;onderwerp:3fc9fb3ad1722d6d342ad3aab0174689&#34;&gt;Onderwerp&lt;/h3&gt;
+
+&lt;p&gt;Mijn onderwerp voor mijn Case Study ging over ANPR-camera&amp;rsquo;s. Deze camera&amp;rsquo;s zijn zo gemaakt dat ze elke nummerplaat dat passeert, kunnen herkennen en lezen. De kostprijs voor deze systemen is niet laag, maar het heeft al veel nut gehad bij misdrijven.
+&lt;img src=&#34;img/portfolio/anpr.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;op-het-bedrijf:3fc9fb3ad1722d6d342ad3aab0174689&#34;&gt;Op het bedrijf&lt;/h3&gt;
+
+&lt;p&gt;Om een ANPR-camera te gebruiken moet er elke ochtend een nieuwe update van het politienetwerk gehaald worden om nieuwe of verwijderde nummerplaten te updaten in het ANPR-systeem. Dit gebeurt handmatig en kan, afhankelijk van het aantal nummerplaten, wat tijd in beslag nemen. Hij haalt enkel nummerplaten van het politienetwerk die geseind zijn (diefstal, geen keuring, …). Als je voertuig dus in orde is, zal je niet in die lijst terechtkomen. Nadat je alle nummerplaten van het politienetwerk hebt gehaald, is het tijd om deze in de ANPR-camera’s te laden. Ook dit moet handmatig, maar is zeer gemakkelijk. Het systeem in de combi heeft een usb-aansluiting waarin je de usb kunt steken. De software zal automatisch de updates binnenhalen en nummerplaten die een “hit” waren, terug wegschrijven op de stick. Deze “hits” kunnen later dan terug geüpload worden op het politienetwerk zodat deze verwerkt kunnen worden en niet opnieuw aangehouden worden. Als de software klaar is met updaten, kan de stick verwijderd worden en kan de combi vertrekken op patrouille.&lt;/p&gt;
+
+&lt;p&gt;Tijdens het rijden zullen twee camera’s, die zich redelijk goed verstopt hebben onder het zwaailicht, elke nummerplaat scannen dat ze tegenkomen. Dit gebeurt met een aantal algoritmes.
+&lt;img src=&#34;img/portfolio/scherm.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Wanneer een nummerplaat herkent wordt in de database die in de ochtend geüpload is, zal er op het scherm in de combi in het groot “hit” verschijnen. Als je hierop drukt zullen alle details direct verschijnen. Er wordt een “hit” gegeven bij gestolen voertuig, geen keuring, geen verzekering, gelinkt aan een vermist persoon, … .&lt;/p&gt;
+
+&lt;h3 id=&#34;eigen-mening:3fc9fb3ad1722d6d342ad3aab0174689&#34;&gt;Eigen mening&lt;/h3&gt;
+
+&lt;p&gt;Ondanks dat het niet goedkoop is, vind ik dat het wel een noodzaak is in elke gemeente. Wanneer elke in- en uitgang in Belgische gemeentes met een camera worden versterkt, zal het bij misdrijven makkelijker zijn om voertuigen/personen terug te vinden. Je kunt als persoon ook niet overal zijn, of alles zien, dus deze camera&amp;rsquo;s zullen het werk ook verlichten voor agenten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Huisstijl van stagebedrijf</title>
+      <link>http://ricardo-coenen.github.io/GIPsite/politie.png</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ricardo-coenen.github.io/GIPsite/politie.png</guid>
+      <description>
+
+&lt;h3 id=&#34;gebruik-van-lettertype:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;Gebruik van lettertype&lt;/h3&gt;
+
+&lt;p&gt;De politie maakt gebruik van het lettertype: &lt;strong&gt;TheSans&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;logo:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;Logo&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/portfolio/politie.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;De politiezone waar ik werkte, maakte gebruik van het gewone logo waar veel zones, ook de federale, gebruik van maken. Zoals waarsschijnlijk wel bekend is, wordt er veel gebruik gemaakt van blauw (Pantone 072), en zo dus ook in hun logo. Het is ontworpen in 1999 door Hoet&amp;amp;Hoet.&lt;/p&gt;
+
+&lt;h3 id=&#34;de-striping-van-voertuigen:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;De striping van voertuigen&lt;/h3&gt;
+
+&lt;p&gt;Elk voertuig van de lokale politie (zichtbare, dus niet de anonieme) moet representatief zijn. Het moet dus duidelijk zichtbaar zijn (zowel overdag als s&amp;rsquo;nachts) dat het om een politievoertuig gaat. Ze gebruiken lijnen en kleuren die je ook terug kunt vinden in de huisstijl van het logo. De lijnen die gebruikt worden zijn weerkaatsend vinyl, zodat de wagens maximaal zichtbaar zijn.
+&lt;img src=&#34;img/portfolio/politievoertuig.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;graden-bij-de-lokale-politie:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;Graden bij de lokale politie&lt;/h3&gt;
+
+&lt;p&gt;De politie heeft 4 groepen van politiegraden.&lt;/p&gt;
+
+&lt;h4 id=&#34;officierenkader:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;&lt;em&gt;Officierenkader&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/portfolio/Officierenkader.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;middenkader:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;&lt;em&gt;Middenkader&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/portfolio/Middenkader.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;basiskader:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;&lt;em&gt;Basiskader&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/portfolio/Basiskader.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;hulpkader:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;&lt;em&gt;Hulpkader&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/portfolio/Hulpkader.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Verslag Vrijdag 22-01-2016</title>
