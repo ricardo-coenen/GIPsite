@@ -115,6 +115,40 @@
             
 			
 <div class="col-md-4 col-sm-6 portfolio-item">
+    <a href="#portfolioModal27" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+                <i class="fa fa-plus-square fa-3x"></i>
+            </div>
+        </div>
+        <img src="img/portfolio/javascript.png" class="img-responsive" alt="">
+    </a>
+                <div class="portfolio-caption">
+                    <h4>Taak 09: Interactieve applicatie met javascript</h4>
+                </div>
+            </div>
+
+			
+
+			
+<div class="col-md-4 col-sm-6 portfolio-item">
+    <a href="#portfolioModal26" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+                <i class="fa fa-plus-square fa-3x"></i>
+            </div>
+        </div>
+        <img src="img/portfolio/sql.png" class="img-responsive" alt="">
+    </a>
+                <div class="portfolio-caption">
+                    <h4>Taak 08: Applicatie met database</h4>
+                </div>
+            </div>
+
+			
+
+			
+<div class="col-md-4 col-sm-6 portfolio-item">
     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
         <div class="portfolio-hover">
             <div class="portfolio-hover-content">
@@ -572,6 +606,192 @@
 
 
         
+
+<link rel="stylesheet" href="http://ricardo-coenen.github.io/GIPsite/css/agency.css">
+<div class="portfolio-modal modal fade" id="portfolioModal27" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Taak 09: Interactieve applicatie met javascript</h2>
+                        <p>
+
+<h3 id="link-naar-gitlab:193a16fbbc467581f0cd8e061c629262">Link naar gitlab</h3>
+
+<ul>
+<li><a href="https://gitlab.com/ricardo-coenen/JavaScript_Maarten_Ricardo" target="_blank">Gitlab</a></li>
+</ul>
+
+<h3 id="het-ontwerp:193a16fbbc467581f0cd8e061c629262">Het ontwerp</h3>
+
+<p>Wij hebben voor onze tool gewerkt met javascript. Wij hebben de driehoek van pascal gemaakt met enkele animaties. We weten dat de site niet responsive is, maar door tijdgebrek is dit niet meer gelukt. Je kunt max. 10 rijen berekenen, omdat deze getallen nog leesbaar zijn. De code hierachter is niet simpel en we hebben hier dan ook meerdere dagen in gestoken om het onder de knie te krijgen.</p>
+
+<p>Het gebruik is simpel. Je kiest een aantal rijen dat je wilt zien en je drukt op berekenen. Direct zal er een driehoek verschijnen met het vooraf aantal ingegeven rijen.</p>
+</p>
+                        <ul class="list-inline">
+                            <li>Datum: May 10, 2016</li>
+                        </ul>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Post sluiten</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href="http://ricardo-coenen.github.io/GIPsite/css/agency.css">
+<div class="portfolio-modal modal fade" id="portfolioModal26" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Taak 08: Applicatie met database</h2>
+                        <p>
+
+<h3 id="uitleg-over-idee:6ba2ef2bf9e4cca050dd75f98cdcd3dc">Uitleg over idee</h3>
+
+<p>Ik had het idee om een webshop te maken voor het verkopen van verschillende producten. Je kunt een product bestellen, slechts nadat je bent ingelogd met je account. Wanneer je niet bent ingelogd kun je producten bekijken. Wanneer je producten hebt gekozen, kun je deze bekijken en betalen.</p>
+
+<p>Een admin houdt users en admins bij.</p>
+
+<h3 id="sql-code:6ba2ef2bf9e4cca050dd75f98cdcd3dc">SQL Code</h3>
+
+<blockquote>
+<h3 id="maken-van-database:6ba2ef2bf9e4cca050dd75f98cdcd3dc">Maken van database</h3>
+
+<pre><code>create schema gip_taak_08_CoenenRicardo;
+use gip_taak_08_CoenenRicardo;
+</code></pre>
+
+<h3 id="tabellen-maken:6ba2ef2bf9e4cca050dd75f98cdcd3dc">Tabellen maken</h3>
+
+<pre><code>create table UserAccount(
+    id int not null auto_increment primary key,
+    naam text not null,
+    email text not null,
+    gsm int not null,
+    adres text not null,
+    woonplaats text not null,
+    bankgegevens text not null
+);
+</code></pre>
+
+<pre><code>create table WinkelkarUser(
+    id int not null auto_increment primary key,
+    user_id int not null,
+    items text
+);
+</code></pre>
+
+<pre><code>create table BesteldeProducten(
+    id int not null auto_increment primary key,
+    WinkelkarUserId int not null,
+    ProductId int not null
+);
+</code></pre>
+
+<pre><code>create table Producten(
+    id int not null auto_increment primary key,
+    Naam text not null,
+    Beschrijving text not null,
+    Prijs double not null,
+    AantalInVoorraad int not null,
+    VaakVerkocht int not null
+);
+</code></pre>
+
+<h3 id="data-invoeren-in-de-tabellen:6ba2ef2bf9e4cca050dd75f98cdcd3dc">Data invoeren in de tabellen</h3>
+
+<pre><code>insert into UserAccount(id, naam, email, gsm, adres, woonplaats, bankgegevens)
+values
+(1, &quot;Vincent Boden&quot;, &quot;vincent.boden@immalle.be&quot;, 0470123456, &quot;Hoogstraatsebaan 2&quot;, &quot;MALLE&quot;, &quot;BE12 505 5045456 0&quot;),
+(2, &quot;Bert Caeyers&quot;, &quot;bert.caeyers@immalle.be&quot;, 0470123456, &quot;Hoogstraatsebaan 2&quot;, &quot;MALLE&quot;, &quot;BE12 505 5045456 0&quot;),
+(3, &quot;Ricardo Coenen&quot;, &quot;ricardo.coenen@immalle.be&quot;, 0470123456, &quot;Hoogstraatsebaan 2&quot;, &quot;MALLE&quot;, &quot;BE12 505 5045456 0&quot;),
+(4, &quot;Yordi Coussement&quot;, &quot;yordi.coussement@immalle.be&quot;, 0470123456, &quot;Hoogstraatsebaan 2&quot;, &quot;MALLE&quot;, &quot;BE12 505 5045456 0&quot;),
+(5, &quot;Christophe Dumont&quot;, &quot;christophe.dumont@immalle.be&quot;, 0470123456, &quot;Hoogstraatsebaan 2&quot;, &quot;MALLE&quot;, &quot;BE12 505 5045456 0&quot;),
+(6, &quot;Jens van Hoof&quot;, &quot;jens.vanhoof@immalle.be&quot;, 0470123456, &quot;Hoogstraatsebaan 2&quot;, &quot;MALLE&quot;, &quot;BE12 505 5045456 0&quot;),
+(7, &quot;Jens van Loon&quot;, &quot;jens.vanloon@immalle.be&quot;, 0470123456, &quot;Hoogstraatsebaan 2&quot;, &quot;MALLE&quot;, &quot;BE12 505 5045456 0&quot;),
+(8, &quot;Maarten Vissers&quot;, &quot;maarten.vissers@immalle.be&quot;, 0470123456, &quot;Hoogstraatsebaan 2&quot;, &quot;MALLE&quot;, &quot;BE12 505 5045456 0&quot;);
+</code></pre>
+
+<pre><code>insert into WinkelkarUser(id, user_id)
+values
+(1, 3),
+(2, 5),
+(3, 8);
+</code></pre>
+
+<pre><code>insert into Producten(id, Naam, Beschrijving, Prijs, AantalInVoorraad, VaakVerkocht)
+values
+(1, &quot;Jupiler Blond Bier 24 X 25cl&quot;, &quot;&quot;, 8.79, 20, 1456876),
+(2, &quot;Duvel 6 X 33cl&quot;, &quot;&quot;, 6.39, 3, 54321),
+(3, &quot;Desperados 3 X 33cl&quot;, &quot;&quot;, 4.15, 24, 87543),
+(4, &quot;Carlsberg 10 X 25cl&quot;, &quot;&quot;, 8.95, 1, 600),
+(5, &quot;Maes 24 X 25cl&quot;, &quot;&quot;, 8.65, 79, 5274867),
+(6, &quot;Cara Everyday Pils 24 X 25cl&quot;, &quot;&quot;, 3.67, 50, 133);
+</code></pre>
+
+<pre><code>insert into BesteldeProducten(id, WinkelkarUserId, ProductId)
+values
+(1, 1, 3),
+(2, 2, 5),
+(3, 3, 1);
+</code></pre>
+
+<h3 id="query-s-voor-het-testen:6ba2ef2bf9e4cca050dd75f98cdcd3dc">Query&rsquo;s voor het testen</h3>
+
+<h5 id="toont-alle-accounts:6ba2ef2bf9e4cca050dd75f98cdcd3dc">toont alle accounts</h5>
+
+<pre><code>SELECT *
+FROM UserAccount;
+</code></pre>
+
+<h5 id="toont-alle-producten:6ba2ef2bf9e4cca050dd75f98cdcd3dc">toont alle producten</h5>
+
+<pre><code>SELECT *
+FROM Producten;
+</code></pre>
+
+<h5 id="toont-welke-user-wat-in-zijn-winkelkar-heeft-zitten:6ba2ef2bf9e4cca050dd75f98cdcd3dc">toont welke user wat in zijn winkelkar heeft zitten</h5>
+
+<pre><code>SELECT naam, user_id, items
+FROM UserAccount JOIN WinkelkarUser
+ON UserAccount.id = WinkelkarUser.user_id;
+</code></pre>
+
+<h5 id="toont-bestelde-producten-van-users:6ba2ef2bf9e4cca050dd75f98cdcd3dc">Toont bestelde producten van users</h5>
+
+<pre><code>SELECT *
+FROM WinkelkarUser
+JOIN besteldeproducten ON winkelkaruser.id = besteldeproducten.WinkelkarUserId
+JOIN producten ON besteldeproducten.ProductId = producten.id;
+</code></pre>
+</blockquote>
+</p>
+                        <ul class="list-inline">
+                            <li>Datum: May 10, 2016</li>
+                        </ul>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Post sluiten</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <link rel="stylesheet" href="http://ricardo-coenen.github.io/GIPsite/css/agency.css">
 <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">

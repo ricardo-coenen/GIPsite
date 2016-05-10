@@ -6,8 +6,160 @@
     <description>Recent content in Softwares on GIP-Site 2015-2016 Ricardo Coenen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 May 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://ricardo-coenen.github.io/GIPsite/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Taak 08: Applicatie met database</title>
+      <link>http://ricardo-coenen.github.io/GIPsite/sql.png</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ricardo-coenen.github.io/GIPsite/sql.png</guid>
+      <description>
+
+&lt;h3 id=&#34;uitleg-over-idee:6ba2ef2bf9e4cca050dd75f98cdcd3dc&#34;&gt;Uitleg over idee&lt;/h3&gt;
+
+&lt;p&gt;Ik had het idee om een webshop te maken voor het verkopen van verschillende producten. Je kunt een product bestellen, slechts nadat je bent ingelogd met je account. Wanneer je niet bent ingelogd kun je producten bekijken. Wanneer je producten hebt gekozen, kun je deze bekijken en betalen.&lt;/p&gt;
+
+&lt;p&gt;Een admin houdt users en admins bij.&lt;/p&gt;
+
+&lt;h3 id=&#34;sql-code:6ba2ef2bf9e4cca050dd75f98cdcd3dc&#34;&gt;SQL Code&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;maken-van-database:6ba2ef2bf9e4cca050dd75f98cdcd3dc&#34;&gt;Maken van database&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;create schema gip_taak_08_CoenenRicardo;
+use gip_taak_08_CoenenRicardo;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;tabellen-maken:6ba2ef2bf9e4cca050dd75f98cdcd3dc&#34;&gt;Tabellen maken&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;create table UserAccount(
+    id int not null auto_increment primary key,
+    naam text not null,
+    email text not null,
+    gsm int not null,
+    adres text not null,
+    woonplaats text not null,
+    bankgegevens text not null
+);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;create table WinkelkarUser(
+    id int not null auto_increment primary key,
+    user_id int not null,
+    items text
+);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;create table BesteldeProducten(
+    id int not null auto_increment primary key,
+    WinkelkarUserId int not null,
+    ProductId int not null
+);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;create table Producten(
+    id int not null auto_increment primary key,
+    Naam text not null,
+    Beschrijving text not null,
+    Prijs double not null,
+    AantalInVoorraad int not null,
+    VaakVerkocht int not null
+);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;data-invoeren-in-de-tabellen:6ba2ef2bf9e4cca050dd75f98cdcd3dc&#34;&gt;Data invoeren in de tabellen&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;insert into UserAccount(id, naam, email, gsm, adres, woonplaats, bankgegevens)
+values
+(1, &amp;quot;Vincent Boden&amp;quot;, &amp;quot;vincent.boden@immalle.be&amp;quot;, 0470123456, &amp;quot;Hoogstraatsebaan 2&amp;quot;, &amp;quot;MALLE&amp;quot;, &amp;quot;BE12 505 5045456 0&amp;quot;),
+(2, &amp;quot;Bert Caeyers&amp;quot;, &amp;quot;bert.caeyers@immalle.be&amp;quot;, 0470123456, &amp;quot;Hoogstraatsebaan 2&amp;quot;, &amp;quot;MALLE&amp;quot;, &amp;quot;BE12 505 5045456 0&amp;quot;),
+(3, &amp;quot;Ricardo Coenen&amp;quot;, &amp;quot;ricardo.coenen@immalle.be&amp;quot;, 0470123456, &amp;quot;Hoogstraatsebaan 2&amp;quot;, &amp;quot;MALLE&amp;quot;, &amp;quot;BE12 505 5045456 0&amp;quot;),
+(4, &amp;quot;Yordi Coussement&amp;quot;, &amp;quot;yordi.coussement@immalle.be&amp;quot;, 0470123456, &amp;quot;Hoogstraatsebaan 2&amp;quot;, &amp;quot;MALLE&amp;quot;, &amp;quot;BE12 505 5045456 0&amp;quot;),
+(5, &amp;quot;Christophe Dumont&amp;quot;, &amp;quot;christophe.dumont@immalle.be&amp;quot;, 0470123456, &amp;quot;Hoogstraatsebaan 2&amp;quot;, &amp;quot;MALLE&amp;quot;, &amp;quot;BE12 505 5045456 0&amp;quot;),
+(6, &amp;quot;Jens van Hoof&amp;quot;, &amp;quot;jens.vanhoof@immalle.be&amp;quot;, 0470123456, &amp;quot;Hoogstraatsebaan 2&amp;quot;, &amp;quot;MALLE&amp;quot;, &amp;quot;BE12 505 5045456 0&amp;quot;),
+(7, &amp;quot;Jens van Loon&amp;quot;, &amp;quot;jens.vanloon@immalle.be&amp;quot;, 0470123456, &amp;quot;Hoogstraatsebaan 2&amp;quot;, &amp;quot;MALLE&amp;quot;, &amp;quot;BE12 505 5045456 0&amp;quot;),
+(8, &amp;quot;Maarten Vissers&amp;quot;, &amp;quot;maarten.vissers@immalle.be&amp;quot;, 0470123456, &amp;quot;Hoogstraatsebaan 2&amp;quot;, &amp;quot;MALLE&amp;quot;, &amp;quot;BE12 505 5045456 0&amp;quot;);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;insert into WinkelkarUser(id, user_id)
+values
+(1, 3),
+(2, 5),
+(3, 8);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;insert into Producten(id, Naam, Beschrijving, Prijs, AantalInVoorraad, VaakVerkocht)
+values
+(1, &amp;quot;Jupiler Blond Bier 24 X 25cl&amp;quot;, &amp;quot;&amp;quot;, 8.79, 20, 1456876),
+(2, &amp;quot;Duvel 6 X 33cl&amp;quot;, &amp;quot;&amp;quot;, 6.39, 3, 54321),
+(3, &amp;quot;Desperados 3 X 33cl&amp;quot;, &amp;quot;&amp;quot;, 4.15, 24, 87543),
+(4, &amp;quot;Carlsberg 10 X 25cl&amp;quot;, &amp;quot;&amp;quot;, 8.95, 1, 600),
+(5, &amp;quot;Maes 24 X 25cl&amp;quot;, &amp;quot;&amp;quot;, 8.65, 79, 5274867),
+(6, &amp;quot;Cara Everyday Pils 24 X 25cl&amp;quot;, &amp;quot;&amp;quot;, 3.67, 50, 133);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;insert into BesteldeProducten(id, WinkelkarUserId, ProductId)
+values
+(1, 1, 3),
+(2, 2, 5),
+(3, 3, 1);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;query-s-voor-het-testen:6ba2ef2bf9e4cca050dd75f98cdcd3dc&#34;&gt;Query&amp;rsquo;s voor het testen&lt;/h3&gt;
+
+&lt;h5 id=&#34;toont-alle-accounts:6ba2ef2bf9e4cca050dd75f98cdcd3dc&#34;&gt;toont alle accounts&lt;/h5&gt;
+
+&lt;pre&gt;&lt;code&gt;SELECT *
+FROM UserAccount;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h5 id=&#34;toont-alle-producten:6ba2ef2bf9e4cca050dd75f98cdcd3dc&#34;&gt;toont alle producten&lt;/h5&gt;
+
+&lt;pre&gt;&lt;code&gt;SELECT *
+FROM Producten;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h5 id=&#34;toont-welke-user-wat-in-zijn-winkelkar-heeft-zitten:6ba2ef2bf9e4cca050dd75f98cdcd3dc&#34;&gt;toont welke user wat in zijn winkelkar heeft zitten&lt;/h5&gt;
+
+&lt;pre&gt;&lt;code&gt;SELECT naam, user_id, items
+FROM UserAccount JOIN WinkelkarUser
+ON UserAccount.id = WinkelkarUser.user_id;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h5 id=&#34;toont-bestelde-producten-van-users:6ba2ef2bf9e4cca050dd75f98cdcd3dc&#34;&gt;Toont bestelde producten van users&lt;/h5&gt;
+
+&lt;pre&gt;&lt;code&gt;SELECT *
+FROM WinkelkarUser
+JOIN besteldeproducten ON winkelkaruser.id = besteldeproducten.WinkelkarUserId
+JOIN producten ON besteldeproducten.ProductId = producten.id;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taak 09: Interactieve applicatie met javascript</title>
+      <link>http://ricardo-coenen.github.io/GIPsite/javascript.png</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ricardo-coenen.github.io/GIPsite/javascript.png</guid>
+      <description>
+
+&lt;h3 id=&#34;link-naar-gitlab:193a16fbbc467581f0cd8e061c629262&#34;&gt;Link naar gitlab&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/ricardo-coenen/JavaScript_Maarten_Ricardo&#34; target=&#34;_blank&#34;&gt;Gitlab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;het-ontwerp:193a16fbbc467581f0cd8e061c629262&#34;&gt;Het ontwerp&lt;/h3&gt;
+
+&lt;p&gt;Wij hebben voor onze tool gewerkt met javascript. Wij hebben de driehoek van pascal gemaakt met enkele animaties. We weten dat de site niet responsive is, maar door tijdgebrek is dit niet meer gelukt. Je kunt max. 10 rijen berekenen, omdat deze getallen nog leesbaar zijn. De code hierachter is niet simpel en we hebben hier dan ook meerdere dagen in gestoken om het onder de knie te krijgen.&lt;/p&gt;
+
+&lt;p&gt;Het gebruik is simpel. Je kiest een aantal rijen dat je wilt zien en je drukt op berekenen. Direct zal er een driehoek verschijnen met het vooraf aantal ingegeven rijen.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Uitleg over contactformulier</title>
