@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Softwares on GIP-Site 2015-2016 Ricardo Coenen</title>
-    <link>http://ricardo-coenen.github.io:1313/GIPsite/software/</link>
+    <link>http://ricardo-coenen.github.io/GIPsite/software/</link>
     <description>Recent content in Softwares on GIP-Site 2015-2016 Ricardo Coenen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://ricardo-coenen.github.io:1313/GIPsite/software/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ricardo-coenen.github.io/GIPsite/software/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Taak 10: Testopstelling</title>
-      <link>http://ricardo-coenen.github.io:1313/GIPsite/testopstelling.png</link>
+      <link>http://ricardo-coenen.github.io/GIPsite/testopstelling.png</link>
       <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://ricardo-coenen.github.io:1313/GIPsite/testopstelling.png</guid>
+      <guid>http://ricardo-coenen.github.io/GIPsite/testopstelling.png</guid>
       <description>
 
 &lt;h4 id=&#34;test-opstelling-omgeving-ontwerpen-opzetten-en-gebruiken:c36ee4a195c72d275a44931f82064b64&#34;&gt;Test-opstelling / -omgeving ontwerpen, opzetten en gebruiken&lt;/h4&gt;
@@ -71,10 +71,10 @@
     
     <item>
       <title>Taak 08: Applicatie met database</title>
-      <link>http://ricardo-coenen.github.io:1313/GIPsite/sql.png</link>
+      <link>http://ricardo-coenen.github.io/GIPsite/sql.png</link>
       <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://ricardo-coenen.github.io:1313/GIPsite/sql.png</guid>
+      <guid>http://ricardo-coenen.github.io/GIPsite/sql.png</guid>
       <description>
 
 &lt;h3 id=&#34;uitleg-over-idee:6ba2ef2bf9e4cca050dd75f98cdcd3dc&#34;&gt;Uitleg over idee&lt;/h3&gt;
@@ -204,10 +204,10 @@ JOIN producten ON besteldeproducten.ProductId = producten.id;
     
     <item>
       <title>Taak 09: Interactieve applicatie met javascript</title>
-      <link>http://ricardo-coenen.github.io:1313/GIPsite/javascript.png</link>
+      <link>http://ricardo-coenen.github.io/GIPsite/javascript.png</link>
       <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://ricardo-coenen.github.io:1313/GIPsite/javascript.png</guid>
+      <guid>http://ricardo-coenen.github.io/GIPsite/javascript.png</guid>
       <description>
 
 &lt;h3 id=&#34;link-naar-gitlab:193a16fbbc467581f0cd8e061c629262&#34;&gt;Link naar gitlab&lt;/h3&gt;
@@ -226,10 +226,10 @@ JOIN producten ON besteldeproducten.ProductId = producten.id;
     
     <item>
       <title>Uitleg over contactformulier</title>
-      <link>http://ricardo-coenen.github.io:1313/GIPsite/jotform.png</link>
+      <link>http://ricardo-coenen.github.io/GIPsite/jotform.png</link>
       <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ricardo-coenen.github.io:1313/GIPsite/jotform.png</guid>
+      <guid>http://ricardo-coenen.github.io/GIPsite/jotform.png</guid>
       <description>
 
 &lt;h3 id=&#34;wat-heb-ik-gebruikt:896e6a047842bb2c549e5839e6d98774&#34;&gt;Wat heb ik gebruikt?&lt;/h3&gt;
@@ -264,10 +264,10 @@ Een echte aanrader als je een gemakkelijk, maar toch professioneel lijkend conta
     
     <item>
       <title>Taak 07: Vergelijking Hugo - WordPress</title>
-      <link>http://ricardo-coenen.github.io:1313/GIPsite/hugo.png</link>
+      <link>http://ricardo-coenen.github.io/GIPsite/hugo.png</link>
       <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ricardo-coenen.github.io:1313/GIPsite/hugo.png</guid>
+      <guid>http://ricardo-coenen.github.io/GIPsite/hugo.png</guid>
       <description>
 
 &lt;h3 id=&#34;links:f8aef01ec8d36c35dadc267e2ab8a0b2&#34;&gt;Links&lt;/h3&gt;
