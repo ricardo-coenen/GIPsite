@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>It-Tapas on GIP-Site 2015-2016 Ricardo Coenen</title>
-    <link>http://ricardo-coenen.github.io/GIPsite/it-tapa/</link>
+    <link>http://ricardo-coenen.github.io:1313/GIPsite/it-tapa/</link>
     <description>Recent content in It-Tapas on GIP-Site 2015-2016 Ricardo Coenen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Nov 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://ricardo-coenen.github.io/GIPsite/it-tapa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ricardo-coenen.github.io:1313/GIPsite/it-tapa/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Taak 02: Instructiefilmpje Sway Nederlands</title>
-      <link>http://ricardo-coenen.github.io/GIPsite/it-tapa.jpg</link>
+      <link>http://ricardo-coenen.github.io:1313/GIPsite/it-tapa.jpg</link>
       <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ricardo-coenen.github.io/GIPsite/it-tapa.jpg</guid>
+      <guid>http://ricardo-coenen.github.io:1313/GIPsite/it-tapa.jpg</guid>
       <description>
 
 &lt;h3 id=&#34;sway-instructiefilmpje:7039ea107280e7040a73b6bf51670ff6&#34;&gt;Sway Instructiefilmpje&lt;/h3&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Task 03: Instructionvideo Sway English</title>
-      <link>http://ricardo-coenen.github.io/GIPsite/it-tapa.jpg</link>
+      <link>http://ricardo-coenen.github.io:1313/GIPsite/it-tapa.jpg</link>
       <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ricardo-coenen.github.io/GIPsite/it-tapa.jpg</guid>
+      <guid>http://ricardo-coenen.github.io:1313/GIPsite/it-tapa.jpg</guid>
       <description>
 
 &lt;h3 id=&#34;sway-instructionvideo:df2f7b215446a57c38925e3eae29616e&#34;&gt;Sway Instructionvideo&lt;/h3&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Taak 01: IT-Tapa middagsessie</title>
-      <link>http://ricardo-coenen.github.io/GIPsite/it-tapa.jpg</link>
+      <link>http://ricardo-coenen.github.io:1313/GIPsite/it-tapa.jpg</link>
       <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ricardo-coenen.github.io/GIPsite/it-tapa.jpg</guid>
+      <guid>http://ricardo-coenen.github.io:1313/GIPsite/it-tapa.jpg</guid>
       <description>
 
 &lt;h3 id=&#34;sway-middagsessie:b325a9ddf1bc269d67f87edadfb52dec&#34;&gt;Sway: Middagsessie&lt;/h3&gt;
