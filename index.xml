@@ -70,28 +70,6 @@
     </item>
     
     <item>
-      <title>Taak 09: Interactieve applicatie met javascript</title>
-      <link>http://ricardo-coenen.github.io/GIPsite/javascript.png</link>
-      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://ricardo-coenen.github.io/GIPsite/javascript.png</guid>
-      <description>
-
-&lt;h3 id=&#34;link-naar-gitlab:193a16fbbc467581f0cd8e061c629262&#34;&gt;Link naar gitlab&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gitlab.com/ricardo-coenen/JavaScript_Maarten_Ricardo&#34; target=&#34;_blank&#34;&gt;Gitlab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;het-ontwerp:193a16fbbc467581f0cd8e061c629262&#34;&gt;Het ontwerp&lt;/h3&gt;
-
-&lt;p&gt;Wij hebben voor onze tool gewerkt met javascript. Wij hebben de driehoek van pascal gemaakt met enkele animaties. We weten dat de site niet responsive is, maar door tijdgebrek is dit niet meer gelukt. Je kunt max. 10 rijen berekenen, omdat deze getallen nog leesbaar zijn. De code hierachter is niet simpel en we hebben hier dan ook meerdere dagen in gestoken om het onder de knie te krijgen.&lt;/p&gt;
-
-&lt;p&gt;Het gebruik is simpel. Je kiest een aantal rijen dat je wilt zien en je drukt op berekenen. Direct zal er een driehoek verschijnen met het vooraf aantal ingegeven rijen.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Taak 08: Applicatie met database</title>
       <link>http://ricardo-coenen.github.io/GIPsite/sql.png</link>
       <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
@@ -225,6 +203,28 @@ JOIN producten ON besteldeproducten.ProductId = producten.id;
     </item>
     
     <item>
+      <title>Taak 09: Interactieve applicatie met javascript</title>
+      <link>http://ricardo-coenen.github.io/GIPsite/javascript.png</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ricardo-coenen.github.io/GIPsite/javascript.png</guid>
+      <description>
+
+&lt;h3 id=&#34;link-naar-gitlab:193a16fbbc467581f0cd8e061c629262&#34;&gt;Link naar gitlab&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/ricardo-coenen/JavaScript_Maarten_Ricardo&#34; target=&#34;_blank&#34;&gt;Gitlab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;het-ontwerp:193a16fbbc467581f0cd8e061c629262&#34;&gt;Het ontwerp&lt;/h3&gt;
+
+&lt;p&gt;Wij hebben voor onze tool gewerkt met javascript. Wij hebben de driehoek van pascal gemaakt met enkele animaties. We weten dat de site niet responsive is, maar door tijdgebrek is dit niet meer gelukt. Je kunt max. 10 rijen berekenen, omdat deze getallen nog leesbaar zijn. De code hierachter is niet simpel en we hebben hier dan ook meerdere dagen in gestoken om het onder de knie te krijgen.&lt;/p&gt;
+
+&lt;p&gt;Het gebruik is simpel. Je kiest een aantal rijen dat je wilt zien en je drukt op berekenen. Direct zal er een driehoek verschijnen met het vooraf aantal ingegeven rijen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Task 13: Review of a software tool in the training company</title>
       <link>http://ricardo-coenen.github.io/GIPsite/review.png</link>
       <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
@@ -259,6 +259,36 @@ JOIN producten ON besteldeproducten.ProductId = producten.id;
 &lt;h4 id=&#34;voici-un-reportage-photo-concemant-le-stage:52f00ba3841f8929e48728635d6dfd46&#34;&gt;Voici un reportage photo concemant le stage&lt;/h4&gt;
 
 &lt;iframe id=&#34;iframe_container&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34; width=&#34;550&#34; height=&#34;400&#34; src=&#34;https://prezi.com/embed/-hy6d1wfy7bi/?bgcolor=ffffff&amp;amp;lock_to_path=0&amp;amp;autoplay=0&amp;amp;autohide_ctrls=0&amp;amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE1IZk5uYWdBUEdGc3JHQ0ZPb2N2ZmZZeFBlMWp6QzNMVWdRdzVqT21RPT0&amp;amp;landing_sign=ZleMOd3X4ngNt8mbn2BfblInu78Mt6lMNL-967Bib0s&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taak 11: Case study</title>
+      <link>http://ricardo-coenen.github.io/GIPsite/anpr.png</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ricardo-coenen.github.io/GIPsite/anpr.png</guid>
+      <description>
+
+&lt;h3 id=&#34;onderwerp:3fc9fb3ad1722d6d342ad3aab0174689&#34;&gt;Onderwerp&lt;/h3&gt;
+
+&lt;p&gt;Mijn onderwerp voor mijn Case Study ging over ANPR-camera&amp;rsquo;s. Deze camera&amp;rsquo;s zijn zo gemaakt dat ze elke nummerplaat dat passeert, kunnen herkennen en lezen. De kostprijs voor deze systemen is niet laag, maar het heeft al veel nut gehad bij misdrijven.
+&lt;img src=&#34;img/portfolio/anpr.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;op-het-bedrijf:3fc9fb3ad1722d6d342ad3aab0174689&#34;&gt;Op het bedrijf&lt;/h3&gt;
+
+&lt;p&gt;Om een ANPR-camera te gebruiken moet er elke ochtend een nieuwe update van het politienetwerk gehaald worden om nieuwe of verwijderde nummerplaten te updaten in het ANPR-systeem. Dit gebeurt handmatig en kan, afhankelijk van het aantal nummerplaten, wat tijd in beslag nemen. Hij haalt enkel nummerplaten van het politienetwerk die geseind zijn (diefstal, geen keuring, …). Als je voertuig dus in orde is, zal je niet in die lijst terechtkomen. Nadat je alle nummerplaten van het politienetwerk hebt gehaald, is het tijd om deze in de ANPR-camera’s te laden. Ook dit moet handmatig, maar is zeer gemakkelijk. Het systeem in de combi heeft een usb-aansluiting waarin je de usb kunt steken. De software zal automatisch de updates binnenhalen en nummerplaten die een “hit” waren, terug wegschrijven op de stick. Deze “hits” kunnen later dan terug geüpload worden op het politienetwerk zodat deze verwerkt kunnen worden en niet opnieuw aangehouden worden. Als de software klaar is met updaten, kan de stick verwijderd worden en kan de combi vertrekken op patrouille.&lt;/p&gt;
+
+&lt;p&gt;Tijdens het rijden zullen twee camera’s, die zich redelijk goed verstopt hebben onder het zwaailicht, elke nummerplaat scannen dat ze tegenkomen. Dit gebeurt met een aantal algoritmes.
+&lt;img src=&#34;img/portfolio/scherm.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Wanneer een nummerplaat herkent wordt in de database die in de ochtend geüpload is, zal er op het scherm in de combi in het groot “hit” verschijnen. Als je hierop drukt zullen alle details direct verschijnen. Er wordt een “hit” gegeven bij gestolen voertuig, geen keuring, geen verzekering, gelinkt aan een vermist persoon, … .&lt;/p&gt;
+
+&lt;h3 id=&#34;eigen-mening:3fc9fb3ad1722d6d342ad3aab0174689&#34;&gt;Eigen mening&lt;/h3&gt;
+
+&lt;p&gt;Ondanks dat het niet goedkoop is, vind ik dat het wel een noodzaak is in elke gemeente. Wanneer elke in- en uitgang in Belgische gemeentes met een camera worden versterkt, zal het bij misdrijven makkelijker zijn om voertuigen/personen terug te vinden. Je kunt als persoon ook niet overal zijn, of alles zien, dus deze camera&amp;rsquo;s zullen het werk ook verlichten voor agenten.&lt;/p&gt;
 </description>
     </item>
     
@@ -471,22 +501,6 @@ Morgen gaan we naar &lt;em&gt;Boom&lt;/em&gt; om daar de &lt;strong&gt;ANPR-came
 &lt;p&gt;We zijn vandaag begonnen aan mijn &lt;strong&gt;firewall&lt;/strong&gt;. We doen dit niet op een &lt;strong&gt;windows&lt;/strong&gt; machine, maar op een &lt;strong&gt;linux&lt;/strong&gt; machine. &lt;strong&gt;Debian 7 core&lt;/strong&gt;. Hoe minder er op je systeem staat, hoe minder fouten er kunnen zijn in je besturingssysteem. &lt;strong&gt;Linux&lt;/strong&gt; heeft niet de makkelijkste &lt;em&gt;commands&lt;/em&gt; maar eens je ze snapt, is linux veel machtiger dan &lt;strong&gt;windows&lt;/strong&gt;. Ik vind het zelfs een beetje jammer dat wij geen linux leren op school.&lt;/p&gt;
 
 &lt;p&gt;We zijn dus een firewall aan het instellen, maar ook direct een &lt;strong&gt;VPN en fileserver&lt;/strong&gt;. Altijd handig voor in de toekomst!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Verslag Woensdag 13-01-2016</title>
-      <link>http://ricardo-coenen.github.io/GIPsite/verslag.png</link>
-      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://ricardo-coenen.github.io/GIPsite/verslag.png</guid>
-      <description>
-
-&lt;h2 id=&#34;13-01-2016:18ff56c779ade5694d63f359364aabe6&#34;&gt;13-01-2016&lt;/h2&gt;
-
-&lt;h3 id=&#34;firewall-beter-bekijken:18ff56c779ade5694d63f359364aabe6&#34;&gt;Firewall beter bekijken&lt;/h3&gt;
-
-&lt;p&gt;Vandaag zijn we vooral bezig geweest met het bekijken van de hardware &lt;strong&gt;firewall&lt;/strong&gt;. We gaan ook een hardware firewall maken voor bij mij thuis. Maar dit is iets voor morgen, aangezien we heel lang bezig zijn geweest met het bekijken van de &lt;strong&gt;firewall&lt;/strong&gt; en &lt;strong&gt;linux debian core&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     
